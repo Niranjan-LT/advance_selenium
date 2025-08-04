@@ -1,4 +1,4 @@
-package bevarsi;
+package dataprovider;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -48,3 +48,4 @@ public class Sample12
 }
 
 }
+
